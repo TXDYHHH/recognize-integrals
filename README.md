@@ -1,1 +1,1 @@
-BST file has all the code. The discription of the code is in my thesis. Only the 3rd, 4th and 5th section of my thesis are useful. 
+This is my graduation project. This project aims to recognize and calculate the integrals in the pictures. BST file has all the code. Data.rar includes charectors 1-9, 'a'-'z' and some Greek letters which I need. The discription of the code is in my thesis. Only the 3rd, 4th and 5th section of my thesis are useful. 
